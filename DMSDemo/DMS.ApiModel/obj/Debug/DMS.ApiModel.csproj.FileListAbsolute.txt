@@ -3,3 +3,8 @@ F:\测试项目\smobiler项目\DMSDemo\DMS.ApiModel\bin\Debug\DMS.ApiModel.pdb
 F:\测试项目\smobiler项目\DMSDemo\DMS.ApiModel\obj\Debug\DMS.ApiModel.csproj.CoreCompileInputs.cache
 F:\测试项目\smobiler项目\DMSDemo\DMS.ApiModel\obj\Debug\DMS.ApiModel.dll
 F:\测试项目\smobiler项目\DMSDemo\DMS.ApiModel\obj\Debug\DMS.ApiModel.pdb
+F:\测试项目\smobiler项目\Dmsdemo-git\dmsapp\DMSDemo\DMS.ApiModel\bin\Debug\DMS.ApiModel.dll
+F:\测试项目\smobiler项目\Dmsdemo-git\dmsapp\DMSDemo\DMS.ApiModel\bin\Debug\DMS.ApiModel.pdb
+F:\测试项目\smobiler项目\Dmsdemo-git\dmsapp\DMSDemo\DMS.ApiModel\obj\Debug\DMS.ApiModel.csproj.CoreCompileInputs.cache
+F:\测试项目\smobiler项目\Dmsdemo-git\dmsapp\DMSDemo\DMS.ApiModel\obj\Debug\DMS.ApiModel.dll
+F:\测试项目\smobiler项目\Dmsdemo-git\dmsapp\DMSDemo\DMS.ApiModel\obj\Debug\DMS.ApiModel.pdb
