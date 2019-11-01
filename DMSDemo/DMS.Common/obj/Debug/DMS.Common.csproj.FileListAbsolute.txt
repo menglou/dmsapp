@@ -1,0 +1,5 @@
+F:\测试项目\smobiler项目\DMSDemo\DMS.Common\bin\Debug\DMS.Common.dll
+F:\测试项目\smobiler项目\DMSDemo\DMS.Common\bin\Debug\DMS.Common.pdb
+F:\测试项目\smobiler项目\DMSDemo\DMS.Common\obj\Debug\DMS.Common.csproj.CoreCompileInputs.cache
+F:\测试项目\smobiler项目\DMSDemo\DMS.Common\obj\Debug\DMS.Common.dll
+F:\测试项目\smobiler项目\DMSDemo\DMS.Common\obj\Debug\DMS.Common.pdb

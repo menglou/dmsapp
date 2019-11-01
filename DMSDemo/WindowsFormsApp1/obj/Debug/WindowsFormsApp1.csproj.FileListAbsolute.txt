@@ -1,0 +1,17 @@
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\bin\Debug\DMS.Common.dll
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\bin\Debug\DMS.Common.pdb
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\bin\Debug\DMS.ApiModel.dll
+F:\测试项目\smobiler项目\DMSDemo\WindowsFormsApp1\bin\Debug\DMS.ApiModel.pdb
